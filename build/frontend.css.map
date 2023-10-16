@@ -1,0 +1,1 @@
+{"version":3,"file":"frontend.css","mappings":";;;AAAA;EACE;EACA;EACA;EACA;EACA;AACF,C","sources":["webpack://my-block/./src/frontend.scss"],"sourcesContent":[".my-block-users-data h2 {\n  font-size: 40px;\n  line-height: 48px;\n  text-transform: uppercase;\n  font-weight: 700;\n  color: rebeccapurple;\n}\n"],"names":[],"sourceRoot":""}
